@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MaterialTabs</string>
+    <string name="one">UNO</string>
+    <string name="two">DOS</string>
+    <string name="three">TRES</string>
+    <string name="four">CUATRO</string>
+    <string name="five">CINCO</string>
+    <string name="six">SEIS</string>
+</resources>
